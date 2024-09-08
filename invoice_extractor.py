@@ -16,7 +16,7 @@ from typing import Dict, Any
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 # Generative AI configuration
-API_KEY = "AIzaSyCNoFHCAJjBh4y_V8Kj0BjNhjmiNruM3sQ"
+API_KEY = "your google-api-key"
 
 genai.configure(api_key=API_KEY)
 model = genai.GenerativeModel("gemini-1.5-flash")
