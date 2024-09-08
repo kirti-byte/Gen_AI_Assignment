@@ -1,2 +1,0 @@
-invoice_number,invoice_date,supplier_name,buyer_name,hospital_number,opd_number,opd_date,department,doctor,line_items,total_amount,amount_paid,signatory,buyer_address.street,buyer_address.city,buyer_address.state,buyer_address.zip_code
-MHW24OCS0192936,12/08/2024,MHW,MRS MANJU LATA SINGH,MH011516161,O01001888633,12/08/2024,INTERNAL MEDICINE,Dr Adithi Nagaraju,[],0.0,0.0,Kavitha S,Sandeep Vihar,,,

@@ -1,0 +1,2 @@
+invoice_number,invoice_date,line_items,subtotal,total,payment_terms,payment_method,supplier.name,supplier.address.street,supplier.address.city,supplier.address.state,supplier.address.zip_code,buyer.name,buyer.address.street,buyer.address.city,buyer.address.state,buyer.address.zip_code,tax.rate,tax.amount
+042001700112,2018年03月23日,"[{'description': '*经营范围*通行费', 'quantity': None, 'unit_price': None, 'total': '286.23'}]",286.23,294.82,,,海北省邮政高速公路有限公司,B,西宁,,,贵安市车物流有限公司,贵安经济技术开发区车城大道7号,,,84289348,3%,8.59
